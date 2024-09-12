@@ -170,3 +170,15 @@ flex-direction: column;
   padding-left: 50px;
   padding-bottom: 100px;
 }
+
+.botton-pic {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  
+}
+
+.botton-pics img{
+height: 250px;
+}
+
