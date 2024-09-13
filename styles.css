@@ -208,3 +208,23 @@ nav {
   line-height: 45px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#background image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  row-gap: 70px;
+}
+
+.services {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.img {
+  width: 100%;
+  
+}
